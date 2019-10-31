@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Investor
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arraylist
+comment2.target=void\ printStock(java.util.ArrayList)
+comment3.params=s
+comment3.target=void\ printchange(Simulator)
+comment4.params=p
+comment4.target=void\ printportofolio(Portofolio)
+numComments=5

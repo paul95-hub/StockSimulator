@@ -1,0 +1,5 @@
+2200
+Google Stock hold: 1
+Facebook Stock hold: 1
+Goldcorp Stock hold: 0
+TPI Composites Stock hold: 0
